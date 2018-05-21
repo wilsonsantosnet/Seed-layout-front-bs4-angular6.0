@@ -35,6 +35,7 @@
     "rxjs": "^6.1.0",
     "select2": "^4.0.6-rc.1",
     "text-mask-addons": "^3.7.2",
+    "tinymce": "^4.7.13",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
